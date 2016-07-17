@@ -1,0 +1,16 @@
+{
+  "name": "pokemongo",
+  "version": "0.0.1",
+  "main": "server.js",
+  "author": "Trainers",
+  "script": {},
+  "dependencies": {
+    "connect-flash": "*",
+    "express": "^3.2.0",
+   
+    "mongoose": "^4.4.11",
+    "morgan": "*",
+  "method-override": "~1.0.0",
+ "express-session": "~1.0.0" 
+  }
+}
